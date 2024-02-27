@@ -34,3 +34,8 @@
 			transform: none;
 			opacity: 1;
 		}
+
+		.logo-img {
+			width: 150px; /* Adjust the width as needed */
+			height: auto; /* Automatically adjust height to maintain aspect ratio */
+		}
